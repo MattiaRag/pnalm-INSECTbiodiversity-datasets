@@ -1,0 +1,10 @@
+# Data standard
+
+Datasets are based on Darwin Core.
+
+Core file: data/occurrences.csv
+
+Custom fields:
+- source
+- validationStatus
+- pnalmTaxonGroup
